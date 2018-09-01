@@ -1,10 +1,9 @@
-| Assignment - JavaScript and DOM Manipulation
-  In this assignment, written a javaScript code that will create a table dynamically using the dataset that was provided. Th dataset is about UFO sightings in the United States.
+JavaScript and DOM Manipulation
+
+ In this example, written a javaScript code that will create a table dynamically using the dataset that was provided. Th dataset is about UFO sightings in the United States.
 
 
-## Your Task
-
-### Level 1: Automatic Table and Date Search
+### Automatic Table and Date Search
 
 * Create a basic HTML web page.
 
@@ -14,9 +13,8 @@
 
 * Add an `input` tag to HTML document and write JavaScript code that will search through the `date/time` column to find rows that match user input.
 
-### Level 2: Multiple Search Categories
+### Multiple Search Categories
 
-* Complete all of Level 1 criteria.
 
 * Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns: 
 
