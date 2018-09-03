@@ -1,6 +1,6 @@
 JavaScript and DOM Manipulation
 
- In this example, written a javaScript code that will create a table dynamically using the dataset that was provided. Th dataset is about UFO sightings in the United States.
+Written a javaScript code that will create a table dynamically using the dataset that was provided. Th dataset is about UFO sightings in the United States.
 
 
 ### Automatic Table and Date Search
